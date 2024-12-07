@@ -56,3 +56,10 @@ python script.py adresses.csv adresses_geolocalisees.csv --num Numero --rue Adre
 
 - Nécessite une connexion internet
 - Utilisations multiples de l'API Base Adresse Nationale soumises à des limitations
+
+## Crédits
+
+Géolocalisation réalisée avec l'API Base Adresse Nationale (BAN) 
+© Données géographiques issues de la Base Adresse Nationale, 
+mise à disposition par la DINUM, licence Ouverte ETALAB 2.0
+Site web : https://adresse.data.gouv.fr/
