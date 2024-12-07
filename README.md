@@ -30,13 +30,13 @@ pip install -r requirements.txt
 ## Utilisation
 
 ```bash
-python script.py input.csv output.csv --num NumeroColonne --rue RueColonne --cp CPColonne --ville VilleColonne
+python GetGeoCoordinates-cli.py input.csv output.csv --num NumeroColonne --rue RueColonne --cp CPColonne --ville VilleColonne
 ```
 
 ### Exemple
 
 ```bash
-python script.py adresses.csv adresses_geolocalisees.csv --num Numero --rue Adresse --cp CodePostal --ville Ville
+python GetGeoCoordinates-cli.py adresses.csv adresses_geolocalisees.csv --num Numero --rue Adresse --cp CodePostal --ville Ville
 ```
 
 ### Paramètres
