@@ -1,4 +1,5 @@
-# Script de Géolocalisation d'Adresses
+# Script de Géolocalisation d'Adresses Postales Françaises
+A partir d'un fichier csv contenant des adresses, ajoute 'latitude' et 'longitude' dans deux nouvelles colonnes en utilisant les données de la Base d'Adresse Nationale.
 
 ## Prérequis
 
