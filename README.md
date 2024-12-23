@@ -10,8 +10,8 @@ A partir d'un fichier csv contenant des adresses, ajoute 'latitude' et 'longitud
 
 1. Clonez le dépôt :
 ```bash
-git clone [URL_DU_DEPOT]
-cd [NOM_DU_DEPOT]
+git clone https://github.com/audacities/BAN_get_coordinates.git
+cd BAN_get_coordinates
 ```
 
 2. Créez un environnement virtuel (optionnel mais recommandé) :
